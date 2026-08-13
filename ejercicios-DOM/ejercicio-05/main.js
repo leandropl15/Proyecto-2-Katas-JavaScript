@@ -1,4 +1,4 @@
-//uso el import export visto en clase, y ademas agrego una hoja de estilo css sencilla para mejorar un poco la visibilidad de la pagina.
+//uso el import export visto en clase
 
 import albums from "./albums.js";
 
